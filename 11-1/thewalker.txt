@@ -1,0 +1,17 @@
+Target Distance: 10, Step Size: 5
+0: (x,y) = (-4.87185,1.12476)
+
+1: (x,y) = (0.11597,1.47354)
+
+2: (x,y) = (4.21173,-1.39434)
+
+3: (x,y) = (9.15017,-2.17652)
+
+4: (x,y) = (12.4305,-5.95006)
+
+After 5 steps,the subject has the following location:
+(x,y) = (12.4305,-5.95006)
+or
+(mag,ang) = (13.7811,-0.446437)
+
+Average outward distance per step = 2.75623
